@@ -16,11 +16,9 @@
     "url": "https://github.com/Fedemontagudo/js-and-css-clock/issues"
   },
   "homepage": "https://github.com/Fedemontagudo/js-and-css-clock#readme",
-  "dependencies": {
-    "eslint": "^8.30.0",
-    "prettier": "^2.8.1"
-  },
   "devDependencies": {
-    "eslint-config-prettier": "^8.5.0"
+    "eslint": "^8.30.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
   }
 }
