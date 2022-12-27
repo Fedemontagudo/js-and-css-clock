@@ -1,0 +1,26 @@
+{
+  "name": "02---js-and-css-clock",
+  "version": "1.0.0",
+  "description": "This exercice is based on JS and basic CSS. With this two tecnologies a fully analog opeartive clock willl be built to practice and improove my CSS and Vanilla JS skills. I will be uploading some of this exercises to Github, and try to mantain and improve them by adding new features or trying to refactor the code to understand how the code works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fedemontagudo/js-and-css-clock.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fedemontagudo/js-and-css-clock/issues"
+  },
+  "homepage": "https://github.com/Fedemontagudo/js-and-css-clock#readme",
+  "dependencies": {
+    "eslint": "^8.30.0",
+    "prettier": "^2.8.1"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^8.5.0"
+  }
+}
